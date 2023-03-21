@@ -3,5 +3,5 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Python</b>
-  - [GitHub Scraper](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [GitHub Scraper](https://github.com/DrRorschach/Github_Scraper)
 
